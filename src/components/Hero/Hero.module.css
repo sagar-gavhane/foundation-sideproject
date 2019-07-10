@@ -1,0 +1,24 @@
+.heroContainer {
+  background-color: var(--primary-color);
+  margin: 0 -1rem;
+  padding: 0.5rem 1rem;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.heroPaga{
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.heroImageContainer {
+  margin: 1.5rem -1rem;
+}
+
+.heroImage {
+  width: 100%;
+  max-width: 100%;
+}
